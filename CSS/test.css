@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(245, 177, 68);}
+.greentext{color:green;}
+.whitetext{color: white;}
+.box{
+    border:none;
+    width: 400px;
+    height: 400px;
+}
